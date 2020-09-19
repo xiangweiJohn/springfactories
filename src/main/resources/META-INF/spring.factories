@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  spark.share.springfactories.SpringFactoriesAutoConfig
+#spark.share.unpack.TestController
+
+#spark.share.unpack.UnPackService=\
+#  spark.share.unpack.impl.UnPackServiceImpl
